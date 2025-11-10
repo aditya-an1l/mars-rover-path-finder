@@ -43,13 +43,6 @@ Interactive simulator screenshots (captured from example runs). Click an image t
 
 </div>
 
-**Figure captions**
-
-- **Screenshot 1:** Terrain with rock obstacles and initial rover pose. HUD shows rover pose and instructions.
-- **Screenshot 2:** Example improved A\* path (motion-primitive) — smoother trajectory.
-- **Screenshot 3:** Grid A\* (baseline) showing jagged path points (8-connected grid).
-- **Screenshot 4:** Close-up of arc-based local controller following a path segment.
-
 ## Requirements
 
 Tested with Python 3.8+ on Linux
