@@ -1,0 +1,20 @@
+
+# Python
+
+**pycache**/
+*.pyc
+env/
+venv/
+.venv/
+
+# Logs and output
+
+logs/
+figures/
+*.png
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
